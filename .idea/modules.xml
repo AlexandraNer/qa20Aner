@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikiTest.iml" filepath="$PROJECT_DIR$/.idea/modules/wikiTest.iml" group="wikiTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikiTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikiTest_main.iml" group="wikiTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikiTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikiTest_test.iml" group="wikiTest" />
     </modules>
